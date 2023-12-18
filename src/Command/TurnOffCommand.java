@@ -1,3 +1,5 @@
+package Command;
+
 public class TurnOffCommand implements Command{
     private Light light;
 
